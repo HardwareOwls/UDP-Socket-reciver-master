@@ -27,7 +27,8 @@ namespace UDP_Socket_reciver
 
     /// 
     /// TODO:
-    /// * Add the result from the ports
+    /// * Save the data from the ports
+    /// * Mix the data from the ports
     /// * Determine the best way to handle recivers
     /// * Send the result to the correct reciver
     /// </summary>
